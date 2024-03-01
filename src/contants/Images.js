@@ -1,0 +1,32 @@
+/* eslint-disable prettier/prettier */
+export default {
+    PLATE: require('../assets/images/plate.png'),
+    DISCOVER: require('../assets/images/discover.png'),
+    DELIVER: require('../assets/images/deliver.png'),
+    FAVORITE: require('../assets/images/favorite.png'),
+    TOYFACE: require('../assets/images/ToyFaces.png'),
+    FACEBOOK: require('../assets/images/facebook.png'),
+    GOOGLE: require('../assets/images/google.png'),
+    CHEF: require('../assets/images/chef.png'),
+    AVATAR: require('../assets/images/avatarBG.jpg'),
+    BURGER1: require('../components/itemdata/Foods/burger2.jpg'),
+    BURGER2: require('../components/itemdata/Foods/burger3.jpg'),
+    BURGER3: require('../components/itemdata/Foods/burger4.jpg'),
+    PIZZA1: require('../assets/images/piz1.jpg'),
+    PIZZA2: require('../assets/images/piz2.jpg'),
+    PIZZA3: require('../assets/images/piz3.jpg'),
+    
+
+    // LOADING: require('../assets/images/loading.json'),
+    // FRIED_CHICKEN: require('../assets/images/fried_chicken.png'),
+    // BURGER: require('../assets/images/burger.png'),
+    // PIZZA: require('../assets/images/pizza.png'),
+    // DESSERT: require('../assets/images/dessert.png'),
+    // NOODLES: require('../assets/images/noodles.png'),
+    // DRINKS: require('../assets/images/drinks.png'),
+    // DELIVERY_TIME: require('../assets/images/delivery_time.png'),
+    // DELIVERY_CHARGE: require('../assets/images/delivery_charge.png'),
+    // MARKER: require('../assets/images/marker.png'),
+    // EMPTY_CART: require('../assets/images/empty_cart.png'),
+    // AVATAR: require('../assets/images/user_avatar.png'),
+}
